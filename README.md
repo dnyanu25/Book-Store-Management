@@ -70,7 +70,7 @@ Pass JWT in header:
 ```http
 Authorization: Bearer <token>
 ```
-
+ 
 ## Testing
 ```bash
 mvn test
