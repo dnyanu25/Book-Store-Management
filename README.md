@@ -3,7 +3,7 @@
 A production-style backend REST API for managing books, users, and orders.
 
 ## Features
-- JWT authentication (`/api/register`, `/api/login`)
+- JWT authentication (`/api/register`, `/api/login`) 
 - Role-based access control (Customer/Admin) via Spring Security
 - Book management CRUD (`/api/books`)
 - Book listing with pagination and title/author search
